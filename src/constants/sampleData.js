@@ -49,7 +49,7 @@ export const samepleChats = [
   export const sampleMessage = [
     {
       attachments: [],
-      content: "L*uda ka Message hai",
+      content: "Hello Bro send me your photo",
       _id: "sfnsdjkfsdnfkjsbnd",
       sender: {
         _id: "user._id",
