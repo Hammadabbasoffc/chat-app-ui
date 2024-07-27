@@ -49,7 +49,7 @@ Follow these instructions to set up the project on your local machine.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/chat-app-ui.git
+    git clone https://github.com/Hammadabbasoffc/chat-app-ui.git
     cd chat-app-ui
     ```
 
@@ -118,8 +118,8 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 ## Contact
 
 - **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: your.hammadabbasoffc.com
+- **GitHub**: [yourusername](https://github.com/Hammadabbasoffc)
 
 ---
 
