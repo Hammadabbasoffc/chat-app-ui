@@ -1,7 +1,3 @@
-Here's a more advanced and easy-to-read version of your `README.md` file:
-
----
-
 # Chat Application UI
 
 Welcome to the Chat Application UI repository. This project showcases the front-end interface of a real-time chat application built using the React.js library. Please note that this repository contains only the UI part of the application. The backend is currently under development, and I am working hard to complete it soon.
@@ -34,7 +30,7 @@ The Chat Application UI provides a sleek, responsive interface for users to comm
 - **React.js**: For building a dynamic and efficient user interface.
 - **Redux**: For robust state management.
 - **Socket.io**: To handle real-time communication between users.
-- **Material UI**: For elegant and maintainable components
+- **Material UI**: For elegant and maintainable components.
 
 ## Getting Started
 
@@ -79,7 +75,6 @@ Follow these instructions to set up the project on your local machine.
 │   │   ├── layout
 │   │   ├── shared
 │   │   ├── specific
-│   │   ├── specific
 │   │   └── styles
 │   ├── constants
 │   │   ├── color.js
@@ -89,10 +84,10 @@ Follow these instructions to set up the project on your local machine.
 │   ├── pages
 │   │   ├── admin
 │   │   │   ├── AdminLogin.jsx
-│   │   │   ├── ChatManagemet.jsx
+│   │   │   ├── ChatManagement.jsx
 │   │   │   ├── Dashboard.jsx
 │   │   │   ├── MessageManagement.jsx
-│   │   │   └── UsrManagement.jsx
+│   │   │   └── UserManagement.jsx
 │   │   ├── Chat.jsx
 │   │   ├── Group.jsx
 │   │   ├── Home.jsx
@@ -113,14 +108,12 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
-
-
 ## Contact
 
-- **Name**: Your Name
-- **Email**: your.hammadabbasoffc.com
-- **GitHub**: [yourusername](https://github.com/Hammadabbasoffc)
+- **Name**: Hammad Abbas
+- **GitHub**: [Hammadabbasoffc](https://github.com/Hammadabbasoffc)
 
 ---
 
 Feel free to adjust the template as needed to fit your project's details and your personal preferences.
+
